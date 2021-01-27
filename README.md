@@ -14,7 +14,7 @@ I'm hoping to be able to use my skills to score myself a career doing what I lov
 ### Connect with me on social media:
 [<img align="left" alt="CrookedPoe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="DJInsomniaPro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br />
 ### Languages and Tools:
 | Language | Experience Level |
 | --- | ----------- |
