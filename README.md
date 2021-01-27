@@ -7,7 +7,7 @@ For the past twelve years or so, I've learned many skills from reverse engineeri
 * 💾 Programming in languages such as C and C#.
 * 🌱 How to form thorough and well-documented notes and information.
 
-Not only have I gained skills, but I've also developed a love for writing clean and fluid code with a solid foundation. This structured way of thinking has helped me tackle large tasks in my own life sequentially--like a computer! 🤖
+Not only have I gained skills, but I've also developed a love for writing clean and fluid code with a solid foundation. This structured way of thinking has helped me tackle large tasks in my own life sequentially--like a computer!
 
 I'm hoping to be able to use my skills to score myself a career doing what I love to do and hopefully teach some other passionate folks some of what I know while also learning from them. 
 
