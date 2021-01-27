@@ -13,6 +13,7 @@ I'm hoping to be able to use my skills to score myself a career doing what I lov
 
 ### Connect with me on social media:
 [<img align="left" alt="CrookedPoe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="CrookedPoe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DJInsomniaPro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 ### Languages and Tools:
@@ -43,3 +44,4 @@ I'm hoping to be able to use my skills to score myself a career doing what I lov
 [website]: https://nickjs.site
 [youtube]: https://www.youtube.com/c/CrookedPoe
 [instagram]: https://www.instagram.com/djinsomniapro/
+[linkedin]: https://www.linkedin.com/in/nickolas-sanguinetti-a359901b4/
